@@ -2,7 +2,6 @@
 
 ML researcher working on quantum-accelerated AI at [Sygaldry Technologies](https://sygaldry.com).
 Specialized in flow- and score-based diffusion models, tensor networks, and learning/stochastic control algorithms.
-Ph.D. in Dynamical Systems and Control Engineering, Case Western Reserve University.
 
 ### Research
 
