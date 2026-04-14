@@ -13,6 +13,7 @@ Ph.D. in Dynamical Systems and Control Engineering, Case Western Reserve Univers
 
 ### Links
 
+[LinkedIn](https://www.linkedin.com/in/nathan-x-kodama/) &nbsp;·&nbsp;
 [Website](https://nxkodama.github.io) &nbsp;·&nbsp;
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=OucbaU8AAAAJ&view_op=list_works&sortby=pubdate) &nbsp;·&nbsp;
 [X](https://x.com/nxkodama)
